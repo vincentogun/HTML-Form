@@ -1,5 +1,5 @@
 body {
-    background-color: teal;
+    background-color: rgb(9, 65, 65);
     font-size: 150%;
 }
 * {
@@ -31,7 +31,7 @@ outline: none;
 }
 
 .registerbtn {
-    background-color: teal;
+    background-color: rgb(9, 65, 65);
     color: white;
     padding: 16px;
     border: none;
